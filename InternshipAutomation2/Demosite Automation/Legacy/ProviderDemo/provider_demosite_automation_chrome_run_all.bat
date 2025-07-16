@@ -1,0 +1,13 @@
+start provider_demosite_automation_chrome_v2-1.py
+timeout 15
+start provider_demosite_automation_chrome_v2-2.py
+timeout 15
+start provider_demosite_automation_chrome_v2-3.py
+timeout 15
+start provider_demosite_automation_chrome_v2-4.py
+timeout 15
+start provider_demosite_automation_chrome_v2-5.py
+timeout 15
+start provider_demosite_automation_chrome_v2-6.py
+timeout 15
+start provider_demosite_automation_chrome_v2-7.py
