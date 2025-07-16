@@ -1,0 +1,13 @@
+start member_demosite_automation_chrome_v6-1.py
+timeout 15
+start member_demosite_automation_chrome_v6-2.py
+timeout 15
+start member_demosite_automation_chrome_v6-3.py
+timeout 15
+start member_demosite_automation_chrome_v6-4.py
+timeout 15
+start member_demosite_automation_chrome_v6-5.py
+timeout 15
+start member_demosite_automation_chrome_v6-6.py
+timeout 15
+start member_demosite_automation_chrome_v6-7.py

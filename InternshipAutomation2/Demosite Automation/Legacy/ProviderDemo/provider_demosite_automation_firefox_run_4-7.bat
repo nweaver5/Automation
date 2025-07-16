@@ -1,0 +1,7 @@
+start provider_demosite_automation_firefox_v2-4.py
+timeout 15
+start provider_demosite_automation_firefox_v2-5.py
+timeout 15
+start provider_demosite_automation_firefox_v2-6.py
+timeout 15
+start provider_demosite_automation_firefox_v2-7.py
